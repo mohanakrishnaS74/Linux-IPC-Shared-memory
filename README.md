@@ -27,6 +27,7 @@ Execute the C Program for the desired output.
 
 
 ## OUTPUT
+<img width="1384" height="207" alt="image" src="https://github.com/user-attachments/assets/5138cf0c-9d23-4516-a865-7a8cafe4cfe0" />
 
 
 # RESULT:
